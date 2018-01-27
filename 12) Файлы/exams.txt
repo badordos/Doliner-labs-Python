@@ -1,0 +1,10 @@
+Ivanon = {'math':4, 'english':4, 'physic':4, 'chemistry':4, 'biology':4}
+Sidorov = {'math':5, 'english':4, 'physic':3, 'chemistry':5, 'biology':4}
+Alexeev = {'math':3, 'english':4, 'physic':4, 'chemistry':5, 'biology':4}
+Dobrov = {'math':5, 'english':4, 'physic':4, 'chemistry':3, 'biology':4}
+Petrov = {'math':3, 'english':4, 'physic':4, 'chemistry':5, 'biology':4}
+Medvedev = {'math':5, 'english':3, 'physic':4, 'chemistry':5, 'biology':4}
+Magomedov = {'math':5, 'english':5, 'physic':5, 'chemistry':5, 'biology':5}
+Netfullin = {'math':5, 'english':4, 'physic':4, 'chemistry':5, 'biology':4}
+Pasternak = {'math':5, 'english':4, 'physic':3, 'chemistry':5, 'biology':4}
+Lenina = {'math':5, 'english':5, 'physic':5, 'chemistry':5, 'biology':5}
